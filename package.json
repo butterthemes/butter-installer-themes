@@ -6,7 +6,7 @@
     "scripts": {},
     "dependencies": {
         "butter-theme-base": "^0.1.0",
-        "butter-theme-dark": "^0.1.0",
+        "butter-theme-dark": "^0.1.0"
     },
     "keywords": [ "butter", "theme", "installer", "css"],
     "repository": "butterthemes/butter-installer-themes",
