@@ -5,7 +5,7 @@
 
 ### Usage
 
-- ##### Webpack
+- **Webpack**
  ```JS
  entry: [
    'butter-installer-theme',
@@ -13,7 +13,7 @@
    ...
  ],
  ```
-- ##### CSS
+- **CSS**
  ```CSS
  @import './node_modules/butter-installer-themes/index.css';
  ```
