@@ -8,9 +8,9 @@
         "butter-theme-base": "^0.1.0",
         "butter-theme-dark": "^0.1.0",
     },
-    "keywords": [ "butter", "theme", "css"],
-    "repository": "butterthemes/butter-theme-dark",
-    "bugs": "https://github.com/butterthemes/butter-theme-dark/issues",
+    "keywords": [ "butter", "theme", "installer", "css"],
+    "repository": "butterthemes/butter-installer-themes",
+    "bugs": "https://github.com/butterthemes/butter-installer-themes/issues",
     "author": "Baltazar Gomez <btzr.io@gmail>",
     "license": "GPL-3.0"
 }
