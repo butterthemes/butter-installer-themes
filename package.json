@@ -1,0 +1,16 @@
+{
+    "name": "butter-installer-themes",
+    "description": "",
+    "version": "0.1.0",
+    "main": "./index.js",
+    "scripts": {},
+    "dependencies": {
+        "butter-theme-base": "^0.1.0",
+        "butter-theme-dark": "^0.1.0",
+    },
+    "keywords": [ "butter", "theme", "css"],
+    "repository": "butterthemes/butter-theme-dark",
+    "bugs": "https://github.com/butterthemes/butter-theme-dark/issues",
+    "author": "Baltazar Gomez <btzr.io@gmail>",
+    "license": "GPL-3.0"
+}
