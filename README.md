@@ -16,7 +16,13 @@
     ...
  ],
 ```
+
 ### CSS
 ``` CSS
  @import './node_modules/butter-installer-themes/index.css';
+```
+
+### HTML
+``` HTML
+ <link rel="stylesheet" type="text/css" href="./node_modules/butter-installer-themes/index.css">
 ```
