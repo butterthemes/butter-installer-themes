@@ -5,15 +5,15 @@
 
 ### Usage
 
-- **Webpack**
- ```JS
+**Webpack**
+``` JS
  entry: [
    'butter-installer-theme',
    'index.js',
-   ...
+    ...
  ],
- ```
-- **CSS**
- ```CSS
+```
+**CSS**
+``` CSS
  @import './node_modules/butter-installer-themes/index.css';
- ```
+```
